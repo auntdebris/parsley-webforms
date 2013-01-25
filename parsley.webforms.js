@@ -1,6 +1,7 @@
 /*
  * Parsley.js WebForms
  * This is a customization of Parsley.js to work with .NET WebForms.
+ * @url     https://github.com/s3rgiosan/parsley-webforms
  * @version 1.0.0
  * @author  Sérgio Santos (hello@sergiosantos.me)
  */
